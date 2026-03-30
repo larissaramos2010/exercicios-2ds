@@ -1,0 +1,11 @@
+#titulo {
+    text-align: left;
+    font-size: verdana;
+}
+.destaque {
+    color: paleturquoise;
+    font-weight: 100;
+}
+.p {
+    font-family: verdana;
+}
