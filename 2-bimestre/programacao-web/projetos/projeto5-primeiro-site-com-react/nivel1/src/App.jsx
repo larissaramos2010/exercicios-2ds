@@ -1,10 +1,12 @@
-import { Header } from './components/Header'
-import { Footer } from './components/Footer'
-
-export default function App() {
-  return (
-    <div>
-      {/* Adicione seus componentes abaixo dessa linha */}
-    </div>
+import Footer from './components/footer'
+import Header from './components/Header'
+ 
+function App() {
+  return(
+    <>
+    <Header/>
+    <Footer/>
+    </>
   )
 }
+  
