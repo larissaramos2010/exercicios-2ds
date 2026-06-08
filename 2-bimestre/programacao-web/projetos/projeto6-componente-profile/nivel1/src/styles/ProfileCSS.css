@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    padding: 10px;
+    background-color: white;
+    text-align: left;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.profile-card  img {
+    height: 140px;
+    width: 140px;
+    border-radius: 100px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
